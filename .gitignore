@@ -130,3 +130,7 @@ dmypy.json
 
 # Data Files
 data/
+
+#Notebooks
+Gertz_CBSA_OLD.ipynb
+CBSA.sql
